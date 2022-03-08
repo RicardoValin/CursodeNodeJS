@@ -4,4 +4,4 @@ http.createServer(function(req,res){
   res.end("Ola");
 }).listen(8081);
 
-console.log("Servidor Rodando!");
+console.log("Servidor Rodando bem rápido!");
