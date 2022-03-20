@@ -5,3 +5,4 @@ http.createServer(function(req,res){
 }).listen(8081);
 
 console.log("Servidor Rodando bem rápido!");
+console.log("Servidor Rodando bem rápido mesmo!");
