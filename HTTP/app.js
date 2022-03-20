@@ -6,3 +6,4 @@ http.createServer(function(req,res){
 
 console.log("Servidor Rodando bem rápido!");
 console.log("Servidor Rodando bem rápido cv!");
+console.log("Servidor Rodando bem rápido mesmo!");
