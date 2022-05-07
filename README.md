@@ -11,3 +11,11 @@ _Textos entre underline ficam em italico_
 
 Para Hiperlinks
 [Texto do Hiperlionk - Facebook](https://www.facebook.com/ricardo.valin/)
+
+* Com asterisco e espaço temos listas não ordenadas
+* Segundo item da lista
+* Terceiro item da lista
+
+1. Com a numeração e espaço temos listas ordenadas 
+2. Segundo item da lista
+3. Terceiro item da lista
