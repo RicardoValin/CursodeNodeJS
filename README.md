@@ -35,3 +35,11 @@ Entre tres Aspas deitadas
 ```
 - [ ] Marcação de Tasklist
 - [x] Segundo item da Tasklist(marcado)
+
+Exemplo de tabela
+
+COLUNA 1 | COLUNA 2
+-|-
+Registro1|Conteudo 1
+Reg2|Cont2
+R3|C3
