@@ -33,5 +33,5 @@ Texto abaixo é de código incluido na pagina
 ```
 Entre tres Aspas deitadas
 ```
-- [] Marcação de Tasklist
-- [x]Segundo item da Tasklist(marcado)
+- [ ] Marcação de Tasklist
+- [x] Segundo item da Tasklist(marcado)
