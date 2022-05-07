@@ -16,6 +16,10 @@ Para Hiperlinks
 * Segundo item da lista
 * Terceiro item da lista
 
-1. Com a numeração e espaço temos listas ordenadas 
-2. Segundo item da lista
-3. Terceiro item da lista
+1. Com a numeração, ponto e espaço temos listas ordenadas.
+    1. Com um tab, numeração, ponto e espaço primeiro Subitem
+    2. Segundo subitem
+2. Segundo item da lista.
+    1. Primeiro Subitem
+    2. Segundo subitem
+3. Terceiro item da lista.
