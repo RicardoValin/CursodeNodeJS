@@ -27,3 +27,8 @@ Para Hiperlinks
 >Ao incluir o sinal de maior
 >
 >Temos o blockquote
+
+Texto abaixo é de código incluido na pagina
+```
+Entre tres Aspas deitadas
+```
